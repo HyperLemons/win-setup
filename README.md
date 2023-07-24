@@ -12,19 +12,19 @@ If the guide has too many comprimises (the Physical Setup section is more reccom
 
         - Search for the Windows version you desire and download the latest feature update instance
 
-            <img src="uupdump-search-image.png" width="750">
+            <img src="/media/uupdump-search-image.png" width="750">
 
         - Choose the desired language and click next
 
-            <img src="uupdump-choose-language.png" width="750">
+            <img src="/media/uupdump-choose-language.png" width="750">
 
         - Uncheck all editions except the professional edition and click next
 
-            <img src="uupdump-choose-edition.png" width="750">
+            <img src="/media/uupdump-choose-edition.png" width="750">
 
         - Copy the configuration below, ensure that ``Include updates`` is ticked and click ``Create download package``
 
-            <img src="uupdump-download-options.png" width="750">
+            <img src="/media/uupdump-download-options.png" width="750">
 
         - Extract the downloaded package and run ``uup_download_windows.cmd``. The final ISO file will be created in the same directory as the script
 
