@@ -11,7 +11,6 @@ If the guide has too many comprimises (the Physical Setup section is more recomm
     i'm still figuring out Github formatting and will link/give proper credit to that section of his guide if I fix this and
     decide not to make own version of this ISO download tutorial)**
     
-    - [UUP dump](https://uupdump.net) (Windows 10 1709+)
         <details>
         <summary>Instructions</summary>
 
