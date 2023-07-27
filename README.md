@@ -45,9 +45,10 @@ If the guide has too many comprimises for you (the Physical Setup section is mor
 
 ## Sections:
    - List all folders after getting back home
-   - Recommended Discord Clients
+   - [Recommended Discord Clients](#recommended-discord-clients)
    - [Open source replacements for Proprietary Laptop/Hardware software](#open-source-replacements-for-proprietary-laptop/hardware-software)
    - [Misc programs from fresh install at Went program (to be sorted out into folders after getting back home)](#misc-programs-from-fresh-install-at-went-program)
+   - [Browser flags/tweaks](#browser-flags/tweaks)
 
 
 # Misc programs from fresh install at Went program
@@ -83,12 +84,14 @@ Include brief description here along with possible use cases if applicable
 __✅ - Open Source__
 
 Include brief description here along with possible use cases if applicable
-   - Alternatively (or if you aren't able to install your own provided uwp/appx files with GetStoreApp), [Alt App Installer](https://github.com/m-jishnu/alt-app-installer) exists and is ✅ open source.
+   - Alternatively (or if you unable to install your own provided uwp/appx files with GetStoreApp), [Alt App Installer](https://github.com/m-jishnu/alt-app-installer) exists and is ✅ open source.
 
 
 # Open source replacements for Proprietary Laptop/Hardware software
 
 ## Asus Laptops:
+
+
 ### [G-Helper](https://github.com/seerge/g-helper)
 __✅ - Open Source__
 
