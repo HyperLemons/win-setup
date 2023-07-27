@@ -39,9 +39,9 @@ If the guide has too many comprimises (the Physical Setup section is more recomm
 ## Step 2: Programs
 
 - Key:
+    - ⭐ - Highly recommended
     - ✅ - Open Source
     - ❌ - Closed Source/Proprietary
-    - ⭐ - Highly recommended
 
 
 - Sections:
@@ -49,3 +49,9 @@ If the guide has too many comprimises (the Physical Setup section is more recomm
     - [Misc programs from fresh install at Went program (to be sorted out after getting back home)](#misc-programs-from-fresh-install-at-went-program)
 
 ## Misc programs from fresh install at Went program
+
+### [PathCopyCopy](https://github.com/clechasseur/pathcopycopy)
+__⭐ - Highly recommended, ✅ - Open Source__
+
+### [SwiftSearch](https://sourceforge.net/projects/swiftsearch/)
+__✅ - Open Source__
