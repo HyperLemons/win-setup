@@ -74,3 +74,4 @@ Include brief description here along with possible use cases if applicable
 __❌ - Closed Source/Proprietary__
 
 Include brief description here along with possible use cases if applicable
+   - Alternatively, [Pinta](https://www.pinta-project.com/) exists and is open source but it's features are limited due to being built upon Paint.net's 3.0 source code.
