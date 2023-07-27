@@ -35,15 +35,15 @@ If the guide has too many comprimises (the Physical Setup section is more recomm
         </details>
         
 
-## Step 2: Programs
+# Step 2: Programs
 
-### Key:
+## Key:
    - ⭐  Highly recommended
    - ✅ - Open Source
    - ❌ - Closed Source/Proprietary
 
 
-### Sections:
+## Sections:
    - List all folders after getting back home
    - Recommended Discord Clients
    - [Open source replacements for Proprietary Laptop/Hardware software](#open-source-replacements-for-proprietary-laptop/hardware-software)
@@ -86,9 +86,10 @@ Include brief description here along with possible use cases if applicable
    - Alternatively (or if you aren't able to install your own provided uwp/appx files with GetStoreApp), [Alt App Installer](https://github.com/m-jishnu/alt-app-installer) exists and is ✅ open source.
 
 
-## Open source replacements for Proprietary Laptop/Hardware software
+# Open source replacements for Proprietary Laptop/Hardware software
 
-### Asus Laptops:
-   - [G-Helper](https://github.com/seerge/g-helper)
-   - __✅ - Open Source__
-   - Include brief description here along with possible use cases if applicable
+## Asus Laptops:
+### [G-Helper](https://github.com/seerge/g-helper)
+__✅ - Open Source__
+
+Include brief description here along with possible use cases if applicable
