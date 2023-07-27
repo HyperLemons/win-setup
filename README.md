@@ -46,8 +46,14 @@ If the guide has too many comprimises (the Physical Setup section is more recomm
 - Sections:
     - List all folders after getting back home
     - [Misc programs from fresh install at Went program (to be sorted out after getting back home)](#misc-programs-from-fresh-install-at-went-program)
+    - Recommended Djsckrd Clients
 
 ## Misc programs from fresh install at Went program
+
+### [7zip](https://www.7-zip.org/)
+__⭐ - Highly recommended, ✅ - Open Source__
+
+Include brief description here along with possible use cases if applicable
 
 ### [PathCopyCopy](https://github.com/clechasseur/pathcopycopy)
 __⭐ - Highly recommended, ✅ - Open Source__
