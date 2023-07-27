@@ -8,8 +8,8 @@ If you want to go all in, especially for gaming, optimize for latency. A great g
 If the guide has too many comprimises (the Physical Setup section is more recommendations than mandatory) than you can do a clean Windows 10 install with [Microsoft's Windows 10 USB installer](https://www.microsoft.com/en-gb/software-download/windows10) or with [Ventoy](https://github.com/ventoy/Ventoy) using a Windows ISO from [UUP dump](https://uupdump.net) (Windows 10 1709+)
 
     **(this is a blatant rip from https://github.com/amitxv/PC-Tuning/blob/main/docs/building.md,
-    i'm still figuring out Github formatting and will link to that section of his guide if I fix this and decide not to make
-    own version of this ISO download tutorial)**
+    i'm still figuring out Github formatting and will link/give proper credit to that section of his guide if I fix this and
+    decide not to make own version of this ISO download tutorial)**
     
     - [UUP dump](https://uupdump.net) (Windows 10 1709+)
         <details>
