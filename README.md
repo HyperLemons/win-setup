@@ -1,6 +1,6 @@
 My recommended programs (organized in folders) and setup for Windows 10 (and possibly 11 in the future)
 
-## Step 1: Windows setup
+# Step 1: Windows setup
 Since i'm still a current user of Windows 10 this is primarily focused on only Windows 10 setup, programs, and possibly tweaks.
 If at any time in the future I switch to Windows 11, I will either update sections of this guide to include parts for Windows 11 or create a new guide dedicated to Windows 11.
 
@@ -37,49 +37,58 @@ If the guide has too many comprimises (the Physical Setup section is more recomm
 
 ## Step 2: Programs
 
-- Key:
+### Key:
     - ⭐ - Highly recommended
     - ✅ - Open Source
     - ❌ - Closed Source/Proprietary
 
 
-- Sections:
+### Sections:
     - List all folders after getting back home
     - Recommended Discord Clients
+    - [Open source replacements for Proprietary Laptop/Hardware software](#open-source-replacements-for-proprietary-laptop/hardware-software)
     - [Misc programs from fresh install at Went program (to be sorted out into folders after getting back home)](#misc-programs-from-fresh-install-at-went-program)
 
 
-## Misc programs from fresh install at Went program
+# Misc programs from fresh install at Went program
 
-### [7zip](https://www.7-zip.org/)
+## [7zip](https://www.7-zip.org/)
 __⭐ - Highly recommended, ✅ - Open Source__
 
 Include brief description here along with possible use cases if applicable
 
-### [PathCopyCopy](https://github.com/clechasseur/pathcopycopy)
+## [PathCopyCopy](https://github.com/clechasseur/pathcopycopy)
 __⭐ - Highly recommended, ✅ - Open Source__
 
 Include brief description here along with possible use cases if applicable
 
-### [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager/blob/master/README-en.md)
+## [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager/blob/master/README-en.md)
 __⭐ - Highly recommended, ✅ - Open Source__
 
 Include brief description here along with possible use cases if applicable
 
-### [SwiftSearch](https://sourceforge.net/projects/swiftsearch/)
+## [SwiftSearch](https://sourceforge.net/projects/swiftsearch/)
 __✅ - Open Source__
 
 Include brief description here along with possible use cases if applicable
 
-### [paint.net](https://www.getpaint.net/download.html)
+## [paint.net](https://www.getpaint.net/download.html)
 __❌ - Closed Source/Proprietary__
 
 Include brief description here along with possible use cases if applicable
    - Alternatively, [Pinta](https://www.pinta-project.com/) exists and is ✅ open source but it's features are limited due to being built upon Paint.net's 3.0 source code.
 
 
-### [GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp/blob/master/Description/README_EN-US.md)
+## [GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp/blob/master/Description/README_EN-US.md)
 __✅ - Open Source__
 
 Include brief description here along with possible use cases if applicable
    - Alternatively (or if you aren't able to install your own provided uwp/appx files with GetStoreApp), [Alt App Installer](https://github.com/m-jishnu/alt-app-installer) exists and is ✅ open source.
+
+
+## Open source replacements for Proprietary Laptop/Hardware software
+
+## Asus Laptops:
+   - [G-Helper](https://github.com/seerge/g-helper)
+   - __✅ - Open Source__
+   - Include brief description here along with possible use cases if applicable
