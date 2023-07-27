@@ -1,4 +1,4 @@
-My recommended programs (organized in folders) and setup for Windows 10
+My recommended programs (organized in folders) and setup for Windows 10 (and possibly 11 in the future)
 
 ## Step 1: Windows setup
 Since i'm still a current user of Windows 10 this is primarily focused on only Windows 10 setup, programs, and possibly tweaks.
