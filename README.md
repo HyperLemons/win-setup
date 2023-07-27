@@ -52,5 +52,14 @@ If the guide has too many comprimises (the Physical Setup section is more recomm
 ### [PathCopyCopy](https://github.com/clechasseur/pathcopycopy)
 __⭐ - Highly recommended, ✅ - Open Source__
 
+Include brief description here along with possible use cases if applicable
+
+### [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager/blob/master/README-en.md)
+__⭐ - Highly recommended, ✅ - Open Source__
+
+Include brief description here along with possible use cases if applicable
+
 ### [SwiftSearch](https://sourceforge.net/projects/swiftsearch/)
 __✅ - Open Source__
+
+Include brief description here along with possible use cases if applicable
