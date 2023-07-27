@@ -38,16 +38,16 @@ If the guide has too many comprimises (the Physical Setup section is more recomm
 ## Step 2: Programs
 
 ### Key:
-    - ⭐ - Highly recommended
-    - ✅ - Open Source
-    - ❌ - Closed Source/Proprietary
+   - ⭐  Highly recommended
+   - ✅ - Open Source
+   - ❌ - Closed Source/Proprietary
 
 
 ### Sections:
-    - List all folders after getting back home
-    - Recommended Discord Clients
-    - [Open source replacements for Proprietary Laptop/Hardware software](#open-source-replacements-for-proprietary-laptop/hardware-software)
-    - [Misc programs from fresh install at Went program (to be sorted out into folders after getting back home)](#misc-programs-from-fresh-install-at-went-program)
+   - List all folders after getting back home
+   - Recommended Discord Clients
+   - [Open source replacements for Proprietary Laptop/Hardware software](#open-source-replacements-for-proprietary-laptop/hardware-software)
+   - [Misc programs from fresh install at Went program (to be sorted out into folders after getting back home)](#misc-programs-from-fresh-install-at-went-program)
 
 
 # Misc programs from fresh install at Went program
@@ -88,7 +88,7 @@ Include brief description here along with possible use cases if applicable
 
 ## Open source replacements for Proprietary Laptop/Hardware software
 
-## Asus Laptops:
+### Asus Laptops:
    - [G-Helper](https://github.com/seerge/g-helper)
    - __✅ - Open Source__
    - Include brief description here along with possible use cases if applicable
