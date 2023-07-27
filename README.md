@@ -45,7 +45,7 @@ If the guide has too many comprimises (the Physical Setup section is more recomm
 
 - Sections:
     - List all folders after getting back home
-    - Recommended Djsckrd Clients
+    - Recommended Discord Clients
     - [Misc programs from fresh install at Went program (to be sorted out into folders after getting back home)](#misc-programs-from-fresh-install-at-went-program)
 
 
