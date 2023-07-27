@@ -35,11 +35,14 @@ If the guide has too many comprimises (the Physical Setup section is more recomm
 
         </details>
         
-✅ - Open Source
-❌ - Closed Source/Proprietary
-⭐ - Highly recommended
 
 ## Step 2: Programs
+
+- Key:
+    - ✅ - Open Source
+    - ❌ - Closed Source/Proprietary
+    - ⭐ - Highly recommended
+
 
 - Sections:
     - List all folders after getting back home
