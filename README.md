@@ -30,5 +30,15 @@ If the guide has too many comprimises (the Physical Setup section is more reccom
         - Extract the downloaded package and run ``uup_download_windows.cmd``. The final ISO file will be created in the same directory as the script
 
         </details>
+        
 ✅ - Open Source
 ❌ - Closed Source/Proprietary
+⭐ - Highly recommended
+
+## Step 2: Programs
+
+- Sections:
+    - List all folders after getting back home
+    - [Misc programs from fresh install at Went program (to be sorted out after getting back home)](#misc-programs-from-fresh-install-at-went-program)
+
+## Misc programs from fresh install at Went program
