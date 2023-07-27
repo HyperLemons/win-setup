@@ -38,7 +38,7 @@ If the guide has too many comprimises for you (the Physical Setup section is mor
 # Step 2: Programs
 
 ## Key:
-   - ⭐  Highly recommended
+   - ⭐ - Highly recommended
    - ✅ - Open Source
    - ❌ - Closed Source/Proprietary
 
