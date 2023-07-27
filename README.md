@@ -69,3 +69,8 @@ Include brief description here along with possible use cases if applicable
 __✅ - Open Source__
 
 Include brief description here along with possible use cases if applicable
+
+### [paint.net](https://www.getpaint.net/download.html)
+__❌ - Closed Source/Proprietary__
+
+Include brief description here along with possible use cases if applicable
