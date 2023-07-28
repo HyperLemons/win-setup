@@ -52,7 +52,7 @@ If the guide has too many comprimises for you (the Physical Setup section is mor
 
 
 
-# Replacements for proprietary laptop and hardware software aka bloatware
+# Replacements for proprietary laptop and hardware software AKA bloatware
 
 ## Asus Laptops:
 
@@ -71,6 +71,12 @@ __(these programs will all be organized into their proper folder after getting h
 __⭐ - Highly recommended, ✅ - Open Source__
 
 Include brief description here along with possible use cases if applicable
+
+   - My 7zip context menu settings
+     
+     ![7zip_settings](https://github.com/HyperLemons/win10-setup/assets/36387099/693fe1b3-6cb9-4635-9378-874e852cb575)
+
+
 
 ## [PathCopyCopy](https://github.com/clechasseur/pathcopycopy)
 __⭐ - Highly recommended, ✅ - Open Source__
