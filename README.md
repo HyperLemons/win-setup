@@ -86,6 +86,11 @@ __✅ - Open Source__
 Include brief description here along with possible use cases if applicable
    - Alternatively (or if you unable to install your own provided uwp/appx files with GetStoreApp), [Alt App Installer](https://github.com/m-jishnu/alt-app-installer) exists and is ✅ open source.
 
+## [SecureUxTheme](https://github.com/namazso/SecureUxTheme)
+__✅ - Open Source__
+
+Include brief description here along with possible use cases if applicable
+
 
 # Open source replacements for Proprietary Laptop/Hardware software
 
