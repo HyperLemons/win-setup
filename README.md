@@ -92,19 +92,20 @@ Include brief description here along with possible use cases if applicable
 __✅ - Open Source__
 
 Include brief description here along with possible use cases if applicable
+   - Alternatively, **[Alt App Installer](https://github.com/m-jishnu/alt-app-installer)** exists and is practically feature parity, but is **❌ closed source**.
 
 ## [paint.net](https://www.getpaint.net/download.html)
 __❌ - Closed Source/Proprietary__
 
 Include brief description here along with possible use cases if applicable
-   - Alternatively, [Pinta](https://www.pinta-project.com/) exists and is ✅ open source but it's features are limited due to being built upon Paint.net's 3.0 source code.
+   - Alternatively, **[Pinta](https://www.pinta-project.com/)** exists and is **✅ open source** but it's features are limited due to being built upon Paint.net's 3.0 source code.
 
 
 ## [GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp/blob/master/Description/README_EN-US.md)
 __✅ - Open Source__
 
 Include brief description here along with possible use cases if applicable
-   - Alternatively (or if you unable to install your own provided uwp/appx files with GetStoreApp), [Alt App Installer](https://github.com/m-jishnu/alt-app-installer) exists and is ✅ open source.
+   - Alternatively (or if you unable to install your own provided uwp/appx files with GetStoreApp), **[Alt App Installer](https://github.com/m-jishnu/alt-app-installer)** exists and is **✅ open source**.
 
 ## [SecureUxTheme](https://github.com/namazso/SecureUxTheme)
 __✅ - Open Source__
