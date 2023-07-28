@@ -5,7 +5,7 @@ Since i'm still a current user of Windows 10 this is primarily focused on only W
 
 If you want to go all in, especially for gaming, optimize for latency. A great guide that is constantly being updated (at the time of writing this) is **[amitxv's PC-Tuning guide](https://github.com/amitxv/PC-Tuning)**.
 
-If the guide has too many comprimises for you (the Physical Setup section is more recommendations than mandatory, but support for various Windows features like UWP may be removed) than you can do a clean Windows 10 install with [Microsoft's Windows 10 USB installer](https://www.microsoft.com/en-gb/software-download/windows10) or with [Ventoy](https://github.com/ventoy/Ventoy) using a Windows ISO from [UUP dump](https://uupdump.net) (Windows 10 1709+)
+If the guide has too many comprimises for you (the Physical Setup section is more recommendations than mandatory, but support for various Windows features like UWP may be removed. Some of these features removed can be found [here](https://www.startpage.com/sp/search?query=does+fedora+support+ntfs&cat=web&pl=opensearch&language=english)) than you can do a clean Windows 10 install with [Microsoft's Windows 10 USB installer](https://www.microsoft.com/en-gb/software-download/windows10) or with [Ventoy](https://github.com/ventoy/Ventoy) using a Windows ISO from [UUP dump](https://uupdump.net) (Windows 10 1709+)
 
     **(this is a blatant rip from https://github.com/amitxv/PC-Tuning/blob/main/docs/building.md,
     i'm still figuring out Github formatting and will link/give proper credit to that section of his guide if I fix this and
