@@ -46,12 +46,26 @@ If the guide has too many comprimises for you (the Physical Setup section is mor
 ## Sections:
    - List all folders after getting back home
    - [Recommended Discord Clients](#recommended-discord-clients)
-   - [Open source replacements for Proprietary Laptop/Hardware software](#open-source-replacements-for-proprietary-laptop/hardware-software)
-   - [Misc programs from fresh install at Went program (to be sorted out into folders after getting back home)](#misc-programs-from-fresh-install-at-went-program)
+   - [Replacements for proprietary laptop/hardware software/bloatware](#replacements-for-proprietary-laptop-and-hardware-software-aka-bloatware)
    - [Browser flags/tweaks](#browser-flags/tweaks)
+   - [Misc programs from fresh install at Went program (to be sorted out into folders after getting back home)](#misc-programs-from-fresh-install-at-went-program)
+
+
+
+# Replacements for proprietary laptop and hardware software aka bloatware
+
+## Asus Laptops:
+
+
+### [G-Helper](https://github.com/seerge/g-helper)
+__✅ - Open Source__
+
+Include brief description here along with possible use cases if applicable
+
 
 
 # Misc programs from fresh install at Went program
+__(these programs will all be organized into their proper folder after getting home)__
 
 ## [7zip](https://www.7-zip.org/)
 __⭐ - Highly recommended, ✅ - Open Source__
@@ -87,17 +101,6 @@ Include brief description here along with possible use cases if applicable
    - Alternatively (or if you unable to install your own provided uwp/appx files with GetStoreApp), [Alt App Installer](https://github.com/m-jishnu/alt-app-installer) exists and is ✅ open source.
 
 ## [SecureUxTheme](https://github.com/namazso/SecureUxTheme)
-__✅ - Open Source__
-
-Include brief description here along with possible use cases if applicable
-
-
-# Replacements for Proprietary Laptop/Hardware software/bloatware
-
-## Asus Laptops:
-
-
-### [G-Helper](https://github.com/seerge/g-helper)
 __✅ - Open Source__
 
 Include brief description here along with possible use cases if applicable
