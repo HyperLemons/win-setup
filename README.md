@@ -92,7 +92,7 @@ __✅ - Open Source__
 Include brief description here along with possible use cases if applicable
 
 
-# Open source replacements for Proprietary Laptop/Hardware software
+# Replacements for Proprietary Laptop/Hardware software/bloatware
 
 ## Asus Laptops:
 
