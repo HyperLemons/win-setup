@@ -50,6 +50,18 @@ If the guide has too many comprimises for you (the Physical Setup section is mor
    - [Browser flags/tweaks](#browser-flags/tweaks)
    - [Misc programs from fresh install at Went program (to be sorted out into folders after getting back home)](#misc-programs-from-fresh-install-at-went-program)
 
+# Recommended Discord clients
+
+## [ArmCord](https://github.com/ArmCord/ArmCord)
+__✅ - Open Source__
+
+Include brief description here along with possible use cases if applicable
+
+
+## [Dorion](https://github.com/SpikeHD/Dorion/)
+__✅ - Open Source__
+
+Include brief description here along with possible use cases if applicable
 
 
 # Replacements for proprietary laptop and hardware software AKA bloatware
