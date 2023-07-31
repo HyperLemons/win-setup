@@ -77,6 +77,10 @@ Include brief description here along with possible use cases if applicable
      ![7zip_settings](https://github.com/HyperLemons/win10-setup/assets/36387099/693fe1b3-6cb9-4635-9378-874e852cb575)
 
 
+## [WizTree](https://diskanalyzer.com/download)
+__⭐ - Highly recommended, ❌ - Closed Source/Proprietary__
+
+Include brief description here along with possible use cases if applicable (mention how it's much faster than WinDirStat by using MFT for NTFS, https://diskanalyzer.com/wiztree-vs-windirstat)
 
 ## [PathCopyCopy](https://github.com/clechasseur/pathcopycopy)
 __⭐ - Highly recommended, ✅ - Open Source__
@@ -91,7 +95,7 @@ Include brief description here along with possible use cases if applicable
 ## [SwiftSearch](https://sourceforge.net/projects/swiftsearch/)
 __✅ - Open Source__
 
-Include brief description here along with possible use cases if applicable
+Include brief description here along with possible use cases if applicable (mention how fast it is by using MFT for NTFS)
    - Alternatively, **[Alt App Installer](https://github.com/m-jishnu/alt-app-installer)** exists and is practically feature parity, but is **❌ closed source**.
 
 ## [paint.net](https://www.getpaint.net/download.html)
