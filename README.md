@@ -122,6 +122,7 @@ __✅ - Open Source__
 
 Include brief description here along with possible use cases if applicable
    - Alternatively (or if you unable to install your own provided uwp/appx files with GetStoreApp), **[Alt App Installer](https://github.com/m-jishnu/alt-app-installer)** exists and is **✅ open source**.
+   - Can't install appx and msixbundle files? Use ["Appx Installer" Installer](https://github.com/yqs112358/AppxInstaller-Installer).
 
 ## [SecureUxTheme](https://github.com/namazso/SecureUxTheme)
 __✅ - Open Source__
