@@ -44,10 +44,25 @@ If the guide has too many comprimises for you (the Physical Setup section is mor
 
 
 ## Sections:
-   - List all folders after getting back home
+   - [Storage Management]
+   - [Downloading]
+   - [iPhone]
+   - Android (this section will come in the near future...)
+   - [Sound/Audio](#sound-aka-audio)
+   - [Browsers (Includes browser extensions and flags/tweaks)](#browsers)
+   - [Games (Game Launchers, Upscalers, Tools)]
+   - [Images]
+   - [Video]
+   - Productivity (Office alternatives and Office Service disablers)
+   - [System Modifications]
+   - [System Themeing]
+   - [VPN & DNS]
+   - [Monitoring (Hardware, FPS, Latency)]
+   - [SD Card (Formatting and test for fakes]
+   - [Mouse/Mice]
+   - [Monitor]
    - [Recommended Discord Clients](#recommended-discord-clients)
    - [Replacements for proprietary laptop/hardware software/bloatware](#replacements-for-proprietary-laptop-and-hardware-software-aka-bloatware)
-   - [Browser flags/tweaks](#browser-flags/tweaks)
    - [Misc programs from fresh install at Went program (to be sorted out into folders after getting back home)](#misc-programs-from-fresh-install-at-went-program)
 
 # Recommended Discord clients
