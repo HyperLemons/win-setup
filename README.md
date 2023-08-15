@@ -9,7 +9,7 @@ If the guide has too many comprimises for you (the Physical Setup section is mor
 
     **(this is a blatant rip from https://github.com/amitxv/PC-Tuning/blob/main/docs/building.md,
     i'm still figuring out Github formatting and will link/give proper credit to that section of his guide if I fix this and
-    decide not to make own version of this ISO download tutorial)**
+    decide not to make my own version of this ISO download tutorial)**
     
         <details>
         <summary>Instructions</summary>
@@ -44,23 +44,23 @@ If the guide has too many comprimises for you (the Physical Setup section is mor
 
 
 ## Sections:
-   - [Storage Management]
-   - [Downloading]
-   - [iPhone]
-   - Android (this section will come in the near future...)
+   - [Storage Management](#storage-management)
+   - [Downloading](#downloading)
+   - [iPhone](#iphone)
+   - [Android (this section will come in the near future...)](#android)
    - [Sound/Audio](#sound-aka-audio)
    - [Browsers (Includes browser extensions and flags/tweaks)](#browsers)
    - [Games (Game Launchers, Upscalers, Tools)]
-   - [Images]
-   - [Video]
-   - Productivity (Office alternatives and Office Service disablers)
-   - [System Modifications]
-   - [System Themeing]
-   - [VPN & DNS]
-   - [Monitoring (Hardware, FPS, Latency)]
-   - [SD Card (Formatting and test for fakes]
-   - [Mouse/Mice]
-   - [Monitor]
+   - [Images](#images)
+   - [Video](#video)
+   - [Productivity (Office alternatives and Office Service disablers)](#productivity-aka-office)
+   - [System Modifications](#system-modifications)
+   - [System Themeing](#system-themeing)
+   - [VPN & DNS](#vpn-and-dns)
+   - [Monitoring (Hardware, FPS, Latency)](#monitoring)
+   - [SD Card (Formatting and test for fakes](#sd-card-formatting-and-testing)
+   - [Mouse/Mice](#mouse-aka-mice)
+   - [Monitor/Display](#monitor-aka-display)
    - [Recommended Discord Clients](#recommended-discord-clients)
    - [Replacements for proprietary laptop/hardware software/bloatware](#replacements-for-proprietary-laptop-and-hardware-software-aka-bloatware)
    - [Misc programs from fresh install at Went program (to be sorted out into folders after getting back home)](#misc-programs-from-fresh-install-at-went-program)
