@@ -81,6 +81,16 @@ __⭐ - Highly recommended, ✅ - Open Source__
 
 Include brief description here along with possible use cases if applicable
 
+## [CrystalDiskInfo](https://sourceforge.net/projects/crystaldiskinfo/)
+__⭐ - Highly recommended, ✅ - Open Source__
+
+(Partially taken from SourceForge description) A HDD/SSD utility software which supports a part of USB, RAID and NVMe. Very useful for looking at drive health, temperature and lots of more information.
+
+## [CrystalDiskMark](https://sourceforge.net/projects/crystaldiskmark/)
+__⭐ - Highly recommended, ✅ - Open Source__
+
+(Partially taken from SourceForge description) A simple, yet effective disk benchmark software. Extremely useful for test any sort of drive to determine it's peak/max read/write speeds to ensure you have aquired a legitmite drive, or if the advertised speeds aren't as advertised.
+
 ## [WizTree](https://diskanalyzer.com/download)
 __⭐ - Highly recommended, ❌ - Closed Source/Proprietary__
 
