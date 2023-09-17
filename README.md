@@ -48,22 +48,90 @@ If the guide has too many comprimises for you (the Physical Setup section is mor
    - [Downloading](#downloading)
    - [iPhone](#iphone)
    - [Android (this section will come in the near future...)](#android)
-   - [Sound/Audio](#sound-aka-audio)
+   - [Sound/Audio](#sound-and-audio)
    - [Browsers (Includes browser extensions and flags/tweaks)](#browsers)
-   - [Games (Game Launchers, Upscalers, Tools)]
+   - [Games (Game Launchers, Upscalers, Tools)](#games)
    - [Images](#images)
    - [Video](#video)
-   - [Productivity (Office alternatives and Office Service disablers)](#productivity-aka-office)
+   - [Productivity (Office alternatives and Office Service disablers)](#productivity-and-office)
    - [System Modifications](#system-modifications)
    - [System Themeing](#system-themeing)
    - [VPN & DNS](#vpn-and-dns)
    - [Monitoring (Hardware, FPS, Latency)](#monitoring)
    - [SD Card (Formatting and test for fakes](#sd-card-formatting-and-testing)
    - [Mouse/Mice](#mouse-aka-mice)
-   - [Monitor/Display](#monitor-aka-display)
+   - [Monitor/Display](#monitor-and-display)
    - [Recommended Discord Clients](#recommended-discord-clients)
    - [Replacements for proprietary laptop/hardware software/bloatware](#replacements-for-proprietary-laptop-and-hardware-software-aka-bloatware)
    - [Misc programs from fresh install at Went program (to be sorted out into folders after getting back home)](#misc-programs-from-fresh-install-at-went-program)
+
+# Storage Management
+
+
+
+# Downloading
+
+
+
+# iPhone
+
+
+
+# Android
+
+
+
+# Sound and Audio
+
+
+
+# Browsers
+
+
+
+# Games
+
+
+
+# Images
+
+
+
+# Video
+
+
+
+# Productivity and Office
+
+
+
+# System Modifications
+
+
+
+# System Themeing
+
+
+
+# VPN and DNS
+
+
+
+# Monitoring
+
+
+
+# Sd Card formatting and testing
+
+
+
+# Mouse aka Mice
+
+
+
+# Monitor and Display
+
+
 
 # Recommended Discord clients
 
