@@ -112,6 +112,11 @@ Include brief description here along with possible use cases if applicable (ment
 
 # Downloading
 
+## [JDownloader 2](https://jdownloader.org/jdownloader2)
+__⭐ - Highly recommended, ✅ - Open Source__
+
+An extensive multi-download manager that can manage hoster accounts, bypass download restrictions using dynamic ip (if your router supports it), bypassing captchas, plugins, extensions and more.
+
 
 
 # iPhone
