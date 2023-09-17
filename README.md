@@ -89,7 +89,7 @@ __⭐ - Highly recommended, ✅ - Open Source__
 ## [CrystalDiskMark](https://sourceforge.net/projects/crystaldiskmark/)
 __⭐ - Highly recommended, ✅ - Open Source__
 
-(Partially taken from SourceForge description) A simple, yet effective disk benchmark software. Extremely useful for test any sort of drive to determine it's peak/max read/write speeds to ensure you have aquired a legitmite drive, or if the advertised speeds aren't as advertised.
+(Partially taken from SourceForge description) A simple, yet effective disk benchmark software. Extremely useful for test any sort of drive (including flash storage like USBs and flash drives) to determine it's peak/max read/write speeds to ensure you have aquired a legitmite drive, or if the advertised speeds aren't as advertised.
 
 ## [WizTree](https://diskanalyzer.com/download)
 __⭐ - Highly recommended, ❌ - Closed Source/Proprietary__
