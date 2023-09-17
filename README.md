@@ -115,7 +115,12 @@ Include brief description here along with possible use cases if applicable (ment
 ## [JDownloader 2](https://jdownloader.org/jdownloader2)
 __⭐ - Highly recommended, ✅ - Open Source__
 
-An extensive multi-download manager that can manage hoster accounts, bypass download restrictions using dynamic ip (if your router supports it), bypassing captchas, plugins, extensions and more.
+An extensive multi-download manager that can manage hoster accounts, bypass download restrictions using dynamic ip (if your router supports it), bypassing captchas, plugins, extensions and more. If your looking for torrenting, scroll down to qBittorent.
+
+## [Bulk Crap Uninstaller](https://www.bcuninstaller.com/)
+__⭐ - Highly recommended, ✅ - Open Source__
+
+Include brief description here along with possible use cases if applicable
 
 
 
