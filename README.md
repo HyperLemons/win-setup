@@ -67,6 +67,15 @@ If the guide has too many comprimises for you (the Physical Setup section is mor
 
 # Storage Management
 
+## [7zip](https://www.7-zip.org/)
+__⭐ - Highly recommended, ✅ - Open Source__
+
+Include brief description here along with possible use cases if applicable
+
+   - My 7zip context menu settings
+     
+     ![7zip_settings](https://github.com/HyperLemons/win10-setup/assets/36387099/693fe1b3-6cb9-4635-9378-874e852cb575)
+
 ## [WizTree](https://diskanalyzer.com/download)
 __⭐ - Highly recommended, ❌ - Closed Source/Proprietary__
 
@@ -172,21 +181,6 @@ Include brief description here along with possible use cases if applicable
 # Misc programs from fresh install at Went program
 __(these programs will all be organized into their proper folder after getting home)__
 
-## [7zip](https://www.7-zip.org/)
-__⭐ - Highly recommended, ✅ - Open Source__
-
-Include brief description here along with possible use cases if applicable
-
-   - My 7zip context menu settings
-     
-     ![7zip_settings](https://github.com/HyperLemons/win10-setup/assets/36387099/693fe1b3-6cb9-4635-9378-874e852cb575)
-
-
-## [WizTree](https://diskanalyzer.com/download)
-__⭐ - Highly recommended, ❌ - Closed Source/Proprietary__
-
-Include brief description here along with possible use cases if applicable (mention how it's much faster than WinDirStat by using MFT for NTFS, https://diskanalyzer.com/wiztree-vs-windirstat)
-
 ## [PathCopyCopy](https://github.com/clechasseur/pathcopycopy)
 __⭐ - Highly recommended, ✅ - Open Source__
 
@@ -197,18 +191,11 @@ __⭐ - Highly recommended, ✅ - Open Source__
 
 Include brief description here along with possible use cases if applicable
 
-## [SwiftSearch](https://sourceforge.net/projects/swiftsearch/)
-__✅ - Open Source__
-
-Include brief description here along with possible use cases if applicable (mention how fast it is by using MFT for NTFS)
-   - Alternatively, **[WizFile](https://antibody-software.com/wizfile/)** exists and is practically feature parity, but is **❌ closed source**.
-
 ## [paint.net](https://www.getpaint.net/download.html)
 __❌ - Closed Source/Proprietary__
 
 Include brief description here along with possible use cases if applicable
    - Alternatively, **[Pinta](https://www.pinta-project.com/)** exists and is **✅ open source** but it's features are limited due to being built upon Paint.net's 3.0 source code.
-
 
 ## [GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp/blob/master/Description/README_EN-US.md)
 __✅ - Open Source__
