@@ -67,6 +67,16 @@ If the guide has too many comprimises for you (the Physical Setup section is mor
 
 # Storage Management
 
+## [WizTree](https://diskanalyzer.com/download)
+__⭐ - Highly recommended, ❌ - Closed Source/Proprietary__
+
+Include brief description here along with possible use cases if applicable (mention how it's much faster than WinDirStat by using MFT for NTFS, https://diskanalyzer.com/wiztree-vs-windirstat)
+
+## [SwiftSearch](https://sourceforge.net/projects/swiftsearch/)
+__✅ - Open Source__
+
+Include brief description here along with possible use cases if applicable (mention how fast it is by using MFT for NTFS)
+   - Alternatively, **[WizFile](https://antibody-software.com/wizfile/)** exists and is practically feature parity, but is **❌ closed source**.
 
 
 # Downloading
@@ -191,7 +201,7 @@ Include brief description here along with possible use cases if applicable
 __✅ - Open Source__
 
 Include brief description here along with possible use cases if applicable (mention how fast it is by using MFT for NTFS)
-   - Alternatively, **[Alt App Installer](https://github.com/m-jishnu/alt-app-installer)** exists and is practically feature parity, but is **❌ closed source**.
+   - Alternatively, **[WizFile](https://antibody-software.com/wizfile/)** exists and is practically feature parity, but is **❌ closed source**.
 
 ## [paint.net](https://www.getpaint.net/download.html)
 __❌ - Closed Source/Proprietary__
