@@ -117,10 +117,10 @@ __⭐ - Highly recommended, ✅ - Open Source__
 
 An extensive multi-download manager that can manage hoster accounts, bypass download restrictions using dynamic ip (if your router supports it), bypassing captchas, plugins, extensions and more. If your looking for torrenting, scroll down to qBittorent.
 
-## [Bulk Crap Uninstaller](https://www.bcuninstaller.com/)
+## [Nicotine+](https://nicotine-plus.org/)
 __⭐ - Highly recommended, ✅ - Open Source__
 
-Include brief description here along with possible use cases if applicable
+(Partially taken from GitHub description) Nicotine+ is a graphical client for the Soulseek peer-to-peer network. Great for finding those high quality rips without having to search through 15 different websites. Just like if your torrenting, try get some of your own uploads to avoid people banning you for leeching!
 
 
 
