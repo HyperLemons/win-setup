@@ -89,7 +89,14 @@ __⭐ - Highly recommended, ✅ - Open Source__
 ## [CrystalDiskMark](https://sourceforge.net/projects/crystaldiskmark/)
 __⭐ - Highly recommended, ✅ - Open Source__
 
-(Partially taken from SourceForge description) A simple, yet effective disk benchmark software. Extremely useful for test any sort of drive (including flash storage like USBs and flash drives) to determine it's peak/max read/write speeds to ensure you have aquired a legitmite drive, or if the advertised speeds aren't as advertised.
+(Partially taken from SourceForge description) A simple, yet effective disk benchmark software. Extremely useful for test any sort of drive (including flash storage like USBs and flash drives) to determine it's peak/max read/write speeds to ensure you have aquired a legitmite drive in terms of **speed**, or if the advertised speeds aren't as advertised.
+
+## [H2testw (direct download, the official website is in German and had a lot of ads)](https://www.heise.de/ct/Redaktion/bo/downloads/h2testw_1.4.zip)
+__⭐ - Highly recommended, ✅ - Open Source__
+
+**[Follow this guide for proper usage](https://3ds.hacks.guide/h2testw-(windows).html)**
+
+If you want to find out if your drive or flash storage has the right ammount storage, this should be your go to. Extremely useful when purchasing second hand/used drives and flash storage. Keep in mind this is better off used for checking **storage size**, not speed, as it can take a VERY long time depending on how much storage you are writing to test. If you want to check the effective speed of your storage, please use CrystalDiskMark.
 
 ## [WizTree](https://diskanalyzer.com/download)
 __⭐ - Highly recommended, ❌ - Closed Source/Proprietary__
