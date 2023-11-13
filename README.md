@@ -240,3 +240,5 @@ Include brief description here along with possible use cases if applicable
 __✅ - Open Source__
 
 Include brief description here along with possible use cases if applicable
+
+add pinapple pictures
